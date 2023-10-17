@@ -1,4 +1,4 @@
-var topic = "HTML";
+var shapes = ["triangle", "square", "pentagon", "circle"]
 
 if (topic === 'HTML') {
   console.log("Let's study HTML!");
